@@ -41,7 +41,7 @@ require (
 	github.com/oras-project/oras-credentials-go v0.3.1
 	github.com/otiai10/copy v1.14.0
 	github.com/pkg/errors v0.9.1
-	github.com/sethvargo/go-retry v0.2.4
+	github.com/sethvargo/go-retry v0.3.0
 	github.com/shiena/ansicolor v0.0.0-20200904210342-c7312218db18
 	github.com/shirou/gopsutil v3.21.11+incompatible
 	github.com/sirupsen/logrus v1.9.3
