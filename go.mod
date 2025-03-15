@@ -1,7 +1,7 @@
 module github.com/turbot/steampipe
 
 go 1.21
-toolchain go1.23.7
+toolchain go1.24.1
 
 replace (
 	github.com/c-bata/go-prompt => github.com/turbot/go-prompt v0.2.6-steampipe.0.0.20221028122246-eb118ec58d50
@@ -46,8 +46,8 @@ require (
 	github.com/shiena/ansicolor v0.0.0-20200904210342-c7312218db18
 	github.com/shirou/gopsutil v3.21.11+incompatible
 	github.com/sirupsen/logrus v1.9.3
-	github.com/spf13/cobra v1.8.0
-	github.com/spf13/pflag v1.0.5
+	github.com/spf13/cobra v1.9.1
+	github.com/spf13/pflag v1.0.6
 	github.com/spf13/viper v1.18.2
 	github.com/stevenle/topsort v0.2.0
 	github.com/turbot/go-kit v0.9.0-rc.1
